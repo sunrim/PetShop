@@ -268,3 +268,9 @@ $RECYCLE.BIN/
 *.lnk
 
 **/migrations/
+.idea/.gitignore
+.idea/PetShop.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
